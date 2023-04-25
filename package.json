@@ -1,0 +1,41 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "Nexter webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-cli": "^2.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.35.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "not dead",
+    "ie >= 10",
+    "edge >= 12",
+    "ie_mob >= 10",
+    "ff >= 38",
+    "chrome >= 35",
+    "safari >= 8",
+    "opera >= 12",
+    "ios >= 8",
+    "android >= 4",
+    "bb >= 10"
+  ]
+}
